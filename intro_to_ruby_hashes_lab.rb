@@ -1,8 +1,9 @@
 def new_hash
-
+ book = { }
 end
 
 def actor
+actor[:name] = "Dwayne The Rock Johnson" 
 
 end
 
